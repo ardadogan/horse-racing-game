@@ -1,35 +1,26 @@
-# horse-racing-game
+# 🏇 Horse Racing Game
 
-This template should help get you started developing with Vue 3 in Vite.
+An interactive and animated horse racing simulation built with **Vue 3**, using **Vuex** for state management and **Lottie animations** for dynamic horse movement.
 
-## Recommended IDE Setup
+## 🚀 Live Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+🌐 [Click here to play on Netlify](https://phenomenal-sawine-c723ab.netlify.app/)
 
-## Customize configuration
+## 🧩 Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Vue 3](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Lottie](https://airbnb.io/lottie/)
+- [Vite](https://vitejs.dev/) or Vue CLI (based on your setup)
 
-## Project Setup
+## 🛠️ Project Setup
 
-```sh
+```bash
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Run the development server
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Build for production
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
